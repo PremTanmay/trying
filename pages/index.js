@@ -21,7 +21,7 @@ export default function Home() {
           <div class=" bg-green-500 flex  h-52  justify-center gap-2   border-4">
             <div className="h-24 w-24 bg-black  absolute top-40   ">1</div>
             <div className="h-24 w-24 bg-red-500 top-5">2</div>
-            <div className="h-24 w-24 bg-lime-300">3</div>
+            <div className="h-24 w-24 ">3</div>
             <div className="h-24 w-24 bg-fuchsia-400">4</div>
           </div>
         </div>
